@@ -1,0 +1,55 @@
+.main {
+  background-image: url("https://tse2.mm.bing.net/th/id/OIP.ET0wWjOB7ogYtpjj8UIw6wHaE7?w=258&h=180&c=7&r=0&o=5&pid=1.7");
+}
+div {
+  margin-left: ;
+  width: 80%;
+}
+h1, h2, p, h3, h4, h5, h6 {
+  font-family: "Comic Sans MS", cursive;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+h2{
+  color: orange;
+
+}
+h3{
+  color: yellow;
+}
+h4{
+  color: green;
+}
+h5{
+  color: blue;
+}
+h6{
+  color: purple;
+}
+.penis {
+  background-color: pink;
+  margin: auto;
+  width: 80%;
+  position: relative;
+  border: 3px solid green;
+  border-radius: 10px;
+}
+
+.corner-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 90px;
+  height: 60px;
+  border: 3px solid #ff0000;
+  background: white;
+  cursor: pointer;
+  border-radius: 10px;
+  font-family: "Sans-Sarif";
+}
+#tickle {
+  font-family: "Impact";
+}
